@@ -1,0 +1,34 @@
+p{
+    padding-left: 100px;
+  }
+  
+  .yjjtt-show{
+    padding: 20px;
+    border: 1px solid red;
+    height: 120px;
+  }
+  .position-img{
+    position: absolute;
+    width: 90px ;
+    height: 110px;
+  }
+  *{
+    margin:0;
+    padding: 0;
+  }
+  
+  .yjjtt-show-float{
+    padding: 20px;
+    border: 1px solid red;
+    height: 120px;
+  }
+  .float-img{
+    float: left;
+    width: 90px ;
+    height: 110px;
+  }
+  .clearfix:after{
+    content: '';
+    display: block;
+    clear: both;
+  }
